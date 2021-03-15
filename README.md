@@ -1,2 +1,2 @@
-# Halloween
-This website is information about Halloween
+# Organized Repository
+This repository is organized where everything can go
